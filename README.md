@@ -54,6 +54,8 @@ Further documentation, drawings, calculations, and analysis results may be added
 
 ## Author
 
+GOWTHAM D P
+
 Mechanical Engineering Student
 
 ## Disclaimer
