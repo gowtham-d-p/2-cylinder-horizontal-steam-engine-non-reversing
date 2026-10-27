@@ -4,8 +4,7 @@
 
 This project focuses on the 3D CAD design and assembly of a two-cylinder horizontal non-reversing steam engine. The design demonstrates the conversion of reciprocating piston motion into rotary motion using a crankshaft and connecting-rod mechanism.
 
-The project aims to develop an understanding of mechanical components, assembly relationships, and the working principles of a reciprocating steam engine.
-https://github.com/gowtham-d-p/2-cylinder-horizontal-steam-engine-non-reversing/blob/main/final%20assm.JPG 
+The project aims to develop an understanding of mechanical components, assembly relationships, and the working principles of a reciprocating steam engine. 
 
 ## Project Objectives
 
@@ -46,6 +45,12 @@ The two-cylinder arrangement provides successive power strokes according to the 
 - Study of component arrangement and motion
 - Engineering drawings, where prepared
 - Design calculations and simulation, where completed
+
+
+## Final Assembly
+
+![2-Cylinder Horizontal Steam Engine Assembly](https://github.com/gowtham-d-p/2-cylinder-horizontal-steam-engine-non-reversing/blob/main/final%20assm.JPG?raw=true)
+
 
 ## Project Status
 
